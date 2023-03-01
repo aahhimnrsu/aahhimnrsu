@@ -12,4 +12,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aahhimnrsu&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
+![ThanksYou](https://img.shields.io/badge/Thankyou_for_visiting_my_github😊-dodgerred.svg?style=for-the-badge)
