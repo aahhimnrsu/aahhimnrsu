@@ -7,9 +7,14 @@
 
 <img width="100%" src="./git.avif" />
 
- ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=aahhimnrsu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahhimnrsu&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
+<a href="https://github.com/aahhimnrsu/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aahhimnrsu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="200px" />
+</a> 
+<a href="https://github.com/aahhimnrsu/" style="margin-bottom:20px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahhimnrsu&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" height="200px"/>
+</a>
 
+<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=aahhimnrsu&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![ThanksYou](https://img.shields.io/badge/Thankyou_for_visiting_my_github😊-dodgerred.svg?style=for-the-badge)
